@@ -3,7 +3,7 @@
 在vue-waterfall的基础上改了写代码，因为它有些问题导致无法使用，vue-waterfall link is (https://www.npmjs.com/package/vue-waterfall)
 
 # 展示图片
-![preview](https://raw.githubusercontent.com/AmosXu/wx-custom-navigation/master/preview.png)
+![preview](https://raw.githubusercontent.com/AmosXu/vue-simple-waterfall/master/preview.png)
 ## 安装
 
   ```shell
