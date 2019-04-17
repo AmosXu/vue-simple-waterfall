@@ -3,7 +3,7 @@
 I made some changes to resolve some problem and make it easily by vue-waterfall. vue-waterfall link is (https://www.npmjs.com/package/vue-waterfall)
 
 # preview image
-![preview](https://raw.githubusercontent.com/AmosXu/wx-custom-navigation/master/images/preview.png)
+![preview](https://raw.githubusercontent.com/AmosXu/wx-custom-navigation/master/preview.png)
 ## Installation
 
   ```shell
