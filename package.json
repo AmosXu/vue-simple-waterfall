@@ -1,0 +1,19 @@
+{
+  "name": "vue-simple-waterfall",
+  "version": "1.0.0",
+  "description": "A simple waterfall layout component for Vue.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AmosXu/vue-simple-waterfall.git"
+  },
+  "keywords": [
+    "waterfall",
+    "vue"
+  ],
+  "author": "Amos Xu",
+  "license": "MIT"
+}
